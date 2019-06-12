@@ -1,0 +1,23 @@
+{
+  "Block": "IBlock",
+  "TileEntity" : "IBlockEntity",
+  "ResourceLocation": "IIdentifier",
+  "Entity": "IEntity",
+  "Material": "IMaterial",
+  "MapColor": "IMapColor",
+  "IBlockAccess" : "IDimensionReader",
+  "BlockPos" : "IBlockCoordinate",
+  "Rotation" : "IRotation",
+  "Mirror" : "IMirror",
+  "EnumBlockRenderType" : "IBlockRenderType",
+  "World" : "IDimension",
+  "EntityPlayer" : "IPlayerEntity",
+  "EnumHand" : "IHand",
+  "EnumFacing" : "IFacing",
+  "CreativeTabs" : "IItemGroup",
+  "NonNullList<ItemStack>" : "List<IItemStack>",
+  "ItemStack" : "IItemStack",
+  "Int" : "Integer",
+  "int" : "Integer",
+  "ITooltipFlag" : "IToolTipFlag"
+}
